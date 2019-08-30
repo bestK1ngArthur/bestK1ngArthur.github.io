@@ -1,11 +1,11 @@
 # Site settings
 title: bestk1ng
+owner_name: Artem Belkov
 email: bestk1ngarthur@aol.com
 description: > 
-  Light beautifull description from the future
+    iOS dev. & UI/UX designer
 baseurl: "" 
 url: "http://bestk1ng.ru"
-twitter_username: bestk1ngarthur
 github_username:  bestk1ngarthur
 vk_username:      bestk1ngarthur
 
