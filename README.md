@@ -1,5 +1,3 @@
-# bestK1ngArthur.github.io
+# bestk1ng.ru
 
-My test website
-
-...
+CV & Blog
