@@ -1,15 +1,34 @@
 ---
-layout: page
+layout: default
 title: CV
 permalink: /cv/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<div class="cv-body wrapper">
+    <h1>{{ site.owner_name }}</h1>
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+    <i>заполняется..</i>
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+    <p>
+        <h3>💼 Work</h3>
+    </p>
+    <p>
+        2017 - present time 
+        <b>Mail.ru Group</b> 
+        iOS Developer
+    </p>
+    
+    <p>
+        <h3>🎓 Education</h3>
+    </p>
+    <p>
+        2015 - 2019
+        <b>Bauman Moscow State University</b> 
+        Computer Science Bachelor
+    </p>
+    <p>
+        2019 - present time
+        <b>Bauman Moscow State University</b> 
+        Computer Science Master
+    </p>
+</div>
