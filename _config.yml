@@ -6,8 +6,11 @@ description: >
     iOS dev. & UI/UX designer
 baseurl: "" 
 url: "http://bestk1ng.ru"
-github_username:  bestk1ngarthur
-vk_username:      bestk1ngarthur
+github_username:     bestk1ngarthur
+vk_username:         bestk1ngarthur
+instagram_username:  bestk1ngarthur
+facebook_username:   bestk1ngarthur
 
 # Build settings
 markdown: kramdown
+

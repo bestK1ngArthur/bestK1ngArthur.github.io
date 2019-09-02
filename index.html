@@ -10,7 +10,7 @@ layout: default
   <!-- https://lightwidget.com -->
   <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/3bdc2961887d5a30838ab1d503e36bd8.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
 
-  </br></br>
+  <br><br>
   <h1 class="page-heading">📝 Blog</h1>
   <ul class="post-list">
     {% for post in site.posts %}
@@ -35,11 +35,15 @@ layout: default
 
         {% assign sentences = post.content | split: "." %}
         <p>
-        {% for i in (0..5) %}
-        {{ sentences[i] }}. 
-        {% endfor %}
+        {% if sentences.size <= 6 %}
+          {{ post.content }}
+        {% else %}
+          {% for i in (0..5) %}
+            {{ sentences[i] }}. 
+          {% endfor %}
+        {% endif %}
         </p>
-
+        
         <span class="post-meta">
           {{ post.date | date: "%b %-d, %Y" }}
           <a class="link more-link" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
