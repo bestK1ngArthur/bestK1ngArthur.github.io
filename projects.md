@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Тут будут мои проекты..
+here will be my projects
