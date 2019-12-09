@@ -1,0 +1,12 @@
+Artem Belkov:
+  name: "Artem Belkov"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: " iOS dev. & UI/UX designer"
+  location: "Moscow, Russia"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bestk1ngarthur"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/bestk1ngarthur"
