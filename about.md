@@ -54,9 +54,9 @@ If you want to follow my travels or just everyday life, subscribe to Instagram.
 | Date | Name | Place | Role
 | --- | --- | --- | ---
 | March 2016 | **BestHack'16** | 🥇 Winner | Team Leader, iOS Developer
-| October 2017 | **VK Hackathon** | 🎗 Participant | Team Leader, iOS Developer
-| November 2018 | **VK Hackathon** | 🎖 Finalist | Team Leader, iOS Developer
+| October 2017 | **VK Hackathon** | 🎖 Finalist | Team Leader, iOS Developer
 | March 2018 | **BestHack'18** | 🎖 Finalist | Team Leader, Designer
+| November 2018 | **VK Hackathon** | 🎖 Stage Finalist | Team Leader, iOS Developer
 | March 2019 | **BestHack'19** | 🥈 Winner | Team Leader, Android Developer
 | September 2019 | **VK Hackathon** | 🎖 Finalist | Team Leader, iOS Developer
 | November 2019 | **Junction** | 🎗 Participant | Team Leader, iOS Developer |
