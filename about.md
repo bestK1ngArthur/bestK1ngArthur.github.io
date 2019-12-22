@@ -41,7 +41,8 @@ If you want to follow my travels or just everyday life, subscribe to Instagram.
 ### 💼 Work
 
 | May 2017 - October 2019 | **Mail.ru Group** | iOS Developer
-| December 2019 - P.T. | **?** | iOS Developer |
+| October 2019 - P.T. | **?** | Founder
+| December 2019 - P.T. | **Ozon.Travel** | iOS Developer |
 
 ### 🎓 Education
 
