@@ -49,6 +49,18 @@ If you want to follow my travels or just everyday life, subscribe to Instagram.
 | 2015 - 2019 | **Bauman Moscow State University** | Bachelor of Computer Science
 | 2019 - P.T. | **Bauman Moscow State University** | Master of Computer Science |
 
+### 🏆 Hackatons
+
+| Date | Name | Place | Role
+| --- | --- | --- | ---
+| March 2016 | **BestHack'16** | 🥇 Winner | Team Leader, iOS Developer
+| October 2017 | **VK Hackathon** | 🎗 Participant | Team Leader, iOS Developer
+| November 2018 | **VK Hackathon** | 🎖 Finalist | Team Leader, iOS Developer
+| March 2018 | **BestHack'18** | 🎖 Finalist | Team Leader, Designer
+| March 2019 | **BestHack'19** | 🥈 Winner | Team Leader, Android Developer
+| September 2019 | **VK Hackathon** | 🎖 Finalist | Team Leader, iOS Developer
+| November 2019 | **Junction** | 🎗 Participant | Team Leader, iOS Developer |
+
 ### 🔗 Media about me
 <li><a target="_blank" href="https://www.rbth.com/science-and-tech/330454-wwdc-apple-russia-winners">Russia Beyond — 8 computer geniuses from Russia who won a trip to the Apple WWDC conference</a></li>
 <li><a target="_blank" href="https://vc.ru/68258">vc.ru — Восемь студентов из России, которых Apple пригласила на WWDC</a></li>
