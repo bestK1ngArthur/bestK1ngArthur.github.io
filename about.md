@@ -41,7 +41,7 @@ If you want to follow my travels or just everyday life, subscribe to Instagram.
 ### 💼 Work
 
 | May 2017 - October 2019 | **Mail.ru Group** | iOS Developer
-| October 2019 - P.T. | **?** | Founder
+| October 2019 - P.T. | **<a target="_blank" href="https://easychem.app">EasyChem</a>** | Founder
 | December 2019 - P.T. | **Ozon.Travel** | iOS Developer |
 
 ### 🎓 Education
